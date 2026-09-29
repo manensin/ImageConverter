@@ -1,0 +1,11 @@
+{
+    "java.jdt.ls.java.home": "/opt/homebrew/opt/openjdk@17",
+    "gradle.java.home": "/opt/homebrew/opt/openjdk@17",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "/opt/homebrew/opt/openjdk@17",
+            "default": true
+        }
+    ]
+}

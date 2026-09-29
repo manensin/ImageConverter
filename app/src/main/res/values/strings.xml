@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Image Resizer</string>
+    <string name="select_image">Select Image</string>
+    <string name="choose_another">Choose Another Image</string>
+    <string name="original_info">Original: %1$d × %2$d px (%3$s)</string>
+    <string name="dimensions_header">Target Dimensions</string>
+    <string name="width_label">Width (px)</string>
+    <string name="height_label">Height (px)</string>
+    <string name="keep_aspect_ratio">Keep Aspect Ratio</string>
+    <string name="preset_dimensions">Preset Dimensions</string>
+    <string name="resize_mode">Scale Mode</string>
+    <string name="output_format">Output Format</string>
+    <string name="quality">Quality (%1$d%%)</string>
+    <string name="resize_and_save">Resize &amp; Save</string>
+    <string name="resize_and_share">Resize &amp; Share</string>
+    <string name="processing">Processing image…</string>
+    <string name="success_saved">Image saved to gallery!</string>
+    <string name="error_invalid_dimensions">Please enter valid width and height (> 0).</string>
+    <string name="error_no_image">Please select an image first.</string>
+</resources>
